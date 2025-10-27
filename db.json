@@ -4,14 +4,14 @@
       "id_usuario": 1,
       "nome": "Maria das Receitas",
       "email": "maria@example.com",
-      "senha": "senha123"
+      "senha": "senha127"
     }
   ],
   "pratos": [
     {
       "id_usuario": 1,
       "id_prato": 201,
-      "data": "2025-10-23T00:00:00-03:00",
+      "data": "2025-10-27T00:00:00-03:00",
       "turno": "integral",
       "refeicao": {
         "titulo": "Almoço",
@@ -45,7 +45,7 @@
     {
       "id_usuario": 1,
       "id_prato": 202,
-      "data": "2025-10-23T00:00:00-03:00",
+      "data": "2025-10-27T00:00:00-03:00",
       "turno": "manhã",
       "refeicao": {
         "titulo": "Refeição",
@@ -67,7 +67,7 @@
     {
       "id_usuario": 1,
       "id_prato": 203,
-      "data": "2025-10-23T00:00:00-03:00",
+      "data": "2025-10-27T00:00:00-03:00",
       "turno": "tarde",
       "refeicao": {
         "titulo": "Merenda",
@@ -89,7 +89,7 @@
     {
       "id_usuario": 1,
       "id_prato": 204,
-      "data": "2025-10-23T00:00:00-03:00",
+      "data": "2025-10-27T00:00:00-03:00",
       "turno": "noturno",
       "refeicao": {
         "titulo": "Janta",
@@ -115,21 +115,21 @@
       "id_prato": 101,
       "voto": true,
       "data_voto": "2025-06-29T00:00:00.000-03:00",
-      "ip_usuario": "232.168.0.1"
+      "ip_usuario": "272.168.0.1"
     },
     {
       "id_voto": 2,
       "id_prato": 101,
       "voto": false,
-      "data_voto": "2325-06-29T00:00:00.000-03:00",
-      "ip_usuario": "232.168.0.2"
+      "data_voto": "2725-06-29T00:00:00.000-03:00",
+      "ip_usuario": "272.168.0.2"
     },
     {
       "id_voto": 3,
       "id_prato": 102,
       "voto": true,
       "data_voto": "2025-06-29T00:00:00.000-03:00",
-      "ip_usuario": "232.168.0.3"
+      "ip_usuario": "272.168.0.3"
     }
   ]
 }
